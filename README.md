@@ -13,7 +13,7 @@ This project implements a real-time gun detection system using Python and OpenCV
 - **Libraries and Tools**:
   - OpenCV: For video processing and object detection.
   - NumPy: For numerical computations.
-  - Matplotlib: For result visualization (if applicable).
+  - Matplotlib: For result visualization.
 - **Machine Learning**: Haar cascades for object detection.
 
 ## Installation
@@ -40,11 +40,6 @@ This project implements a real-time gun detection system using Python and OpenCV
 - Security monitoring in public areas.
 - Automated surveillance for restricted zones.
 - Threat detection in sensitive environments.
-
-## Future Enhancements
-- Replace Haar cascades with deep learning models like YOLO or SSD for improved accuracy.
-- Add multi-camera support for large-scale surveillance systems.
-- Enhance performance for low-latency environments.
 
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository, create issues, or submit pull requests.
